@@ -2160,7 +2160,7 @@ Where ${`\\(t_{ij}\\)`} gives the ith firing time of neuron j in the network, ${
     			set_style(div0, "width", "100vw");
     			attr_dev(div0, "class", "svelte-10k6cg8");
     			add_location(div0, file$1, 44, 4, 1097);
-    			if (!src_url_equal(img.src, img_src_value = "./portrait.jpeg")) attr_dev(img, "src", img_src_value);
+    			if (!src_url_equal(img.src, img_src_value = "./Portrait.jpeg")) attr_dev(img, "src", img_src_value);
     			attr_dev(img, "alt", "responsive");
     			attr_dev(img, "class", "picture svelte-10k6cg8");
     			add_location(img, file$1, 50, 8, 1289);
